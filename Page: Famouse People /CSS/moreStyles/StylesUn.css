@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=PT+Sans+Narrow:wght@400;700&display=swap');
+
+h5{
+    font-family: "PT Sans Narrow";
+    font-weight: 400;
+}
+
+body{
+    background-color: #cdc2ff;
+}
+
+h1{
+    font-family: "PT Sans Narrow";
+    font-weight: 700;
+}
+
+footer{
+    text-align: center;
+}
+
+body{
+    background-color: #ff7f75;
+}
